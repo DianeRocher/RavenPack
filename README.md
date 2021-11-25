@@ -11,7 +11,7 @@ RavenPack gives meaning to unstructured data. We enable our clients to quickly e
 
 ## Remote status
 
-Our hedquarters are in the sunny Marbella in the province of Malaga, Spain. You’re welcome to join us here and enjoy the international office culture, or you may work with us from the comfort of your home (an overlap with EU working hours is preferred). Relocation assistance may be available.
+Our headquarters are in the sunny Marbella in the province of Malaga, Spain. You’re welcome to join us here and enjoy the international office culture, or you may work with us from the comfort of your home (an overlap with EU working hours is preferred). Relocation assistance may be available.
 
 ## Region
 
@@ -24,6 +24,7 @@ We’ve written our own industry-leading LISP library for NLP, optimized machine
 * Lisp
 * AWS
 * Python
+* Java
 * Elasticsearch
 
 ## Office locations
